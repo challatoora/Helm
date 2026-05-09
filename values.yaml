@@ -1,5 +1,4 @@
 deployment:
-  replicas: "1"
   imageVesion: latest
 service:
   type: LoadBalancer
